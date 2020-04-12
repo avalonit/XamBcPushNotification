@@ -34,8 +34,6 @@ namespace DynPush.iOS
             return base.FinishedLaunching(app, options);
         }
 
-
-
         private void InitPush()
         {
             if (UIDevice.CurrentDevice.CheckSystemVersion(10, 0))
