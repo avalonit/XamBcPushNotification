@@ -43,8 +43,6 @@ namespace DynPush.iOS
                                                                         {
                                                                             if (granted)
                                                                                 InvokeOnMainThread(UIApplication.SharedApplication.RegisterForRemoteNotifications);
-                                                                            //else
-                                                                            //    Debugger.Break();
                                                                         });
             }
             else if (UIDevice.CurrentDevice.CheckSystemVersion(8, 0))
