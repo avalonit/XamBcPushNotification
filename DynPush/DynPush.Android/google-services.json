@@ -1,3 +1,48 @@
-<--
-REPLACE WITH YOUR FILE
--->
+//<-- REPLACE WITH YOUR FILE -->
+{
+  "project_info": {
+    "project_number": "655044216935",
+    "firebase_url": "https://fir-plates.firebaseio.com",
+    "project_id": "fir-plates",
+    "storage_bucket": "fir-plates.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:655044216935:android:30fb5a4381eb0ba06fecc2",
+        "android_client_info": {
+          "package_name": "com.businesscentral.dynpush"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "655044216935-8snn5gr8a5blht268h0g86flhststttp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBisK7AIioZ6bxo9I7vvqZRp882f2iwKrE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "655044216935-8snn5gr8a5blht268h0g86flhststttp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "655044216935-i6j2drflaqob6eep0uj8cugler9dhodi.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "it.varprime.app365sales.fashion"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
