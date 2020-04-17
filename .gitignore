@@ -403,3 +403,5 @@ ASALocalRun/
 
 # Local History for Visual Studio
 .localhistory/
+DynPush/DynPush.Android/google-services.json
+*google-services.json
